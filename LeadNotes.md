@@ -36,3 +36,24 @@ bus model. This means, the computational time is almost
 system study. Thus, the proposed method will provide higher
 and faster results than the most popular machine learning
 algorithms and also provides adaptivity for any structural
+
+_____
+for the paper 9 it has a good info like: the probability of the faults is 85% for the to the ground faults
+
+The number of cycles in which the system can respond to and clear a fault depends on the frequency (Hz) of the system. 
+
+If the frequency is 50 Hz, then the time period (T) of one cycle is given by:
+
+\[ T = \frac{1 \, \text{second}}{50 \, \text{Hz}} = 0.02 \, \text{seconds/cycle} \]
+
+Now, you want to know how many cycles can occur in a .04-second time frame:
+
+\[ \text{Cycles in .04 seconds} = \frac{0.04 \, \text{seconds}}{T} \]
+
+Substitute the value of T:
+
+\[ \text{Cycles in .04 seconds} = \frac{0.04 \, \text{seconds}}{0.02 \, \text{seconds/cycle}} = 2 \, \text{cycles} \]
+
+So, in a .04-second time frame, there are approximately 2 cycles at a frequency of 50 Hz.
+
+====

@@ -4,7 +4,7 @@ Entropy and Density Peaks Clustering
 
 decision tree
 
-@ARTICLE{9344691,
+@ARTICLE{9344691_66,
   author={Qin, Ai-Song and Mao, Han-Ling and Hu, Qin and Zhang, Qing-Hua},
   journal={IEEE Access}, 
   title={Bearing Fault Diagnosis Method Based on Ensemble Composite Multi-Scale Dispersion Entropy and Density Peaks Clustering}, 

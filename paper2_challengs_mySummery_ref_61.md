@@ -1,3 +1,5 @@
+in the latex paper when we used the reference of this review we integrated beside it the word (TEX)--->>> important.
+
 AC MICROGRID PROTECTION CHALLENGES
 As discussed earlier, the microgrid is a cluster of DERs and
 loads within a specific electrical boundary [3], [75]. DERs are
@@ -168,3 +170,27 @@ Certainly, let's summarize the AC Microgrid Protection Challenges highlighted in
    - Issues with auto recloser devices, which automatically close after a predefined interval, checking for fault removal. Persistent faults lead to permanent opening, with implications for system reliability.
 
 Your research and project likely address several of these challenges by proposing mitigation approaches and innovative solutions. Highlighting how your work contributes to overcoming these challenges will strengthen the significance of your research in the field of AC Microgrid Protection.
+
+<!-- suumerey two chatgpt -->
+
+Certainly, here's a concise summary of the AC Microgrid Protection Challenges outlined in the provided section:
+
+1. **Intermittent Fault Currents:** Renewable-based DERs contribute intermittently to fault currents, affecting fault levels during both grid-connected and islanded modes.
+
+2. **Challenges During Grid-Connected Mode:** Ensuring fault ride-through capacity in DERs and rapid isolation of faulty parts are crucial during grid-connected mode.
+
+3. **Challenges During Islanded Mode:** Islanded microgrids face different challenges, with fault currents up to five times the normal current, necessitating unique protection strategies.
+
+4. **Islanding Condition Detection:** Detecting islanding conditions is essential for a smooth transition, particularly concerning Loss of Mains (LOM) conditions.
+
+5. **Blinding of Protection:** Configuration issues in traditional radial power systems can lead to protection blinding in microgrids with DER integration.
+
+6. **Protection Devices/Switch Selection:** Selecting appropriate protection devices is vital, considering operational speed, fault current, and voltage levels.
+
+7. **False Tripping/Spurious Separations:** Challenges arise from devices failing to distinguish faults within the microgrid or on the utility grid, leading to false trips.
+
+8. **Re-Synchronization:** Re-synchronization processes, whether automatic or manual, impact the time required for microgrids to reconnect with the utility grid.
+
+9. **Auto Recloser Problems:** Issues with auto recloser devices, including automatic closure after a predefined interval and the risk of permanent opening due to persistent faults.
+
+Your research likely addresses several of these challenges, proposing mitigation approaches and innovative solutions to enhance AC Microgrid Protection.

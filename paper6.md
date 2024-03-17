@@ -1,4 +1,4 @@
-@ARTICLE{8359272,
+@ARTICLE{8359272_67,
   author={Mishra, Praveen Kumar and Yadav, Anamika and Pazoki, Mohammad},
   journal={IEEE Access}, 
   title={A Novel Fault Classification Scheme for Series Capacitor Compensated Transmission Line Based on Bagged Tree Ensemble Classifier}, 

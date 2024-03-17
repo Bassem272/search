@@ -1,0 +1,10 @@
+@ARTICLE{10416843_70,
+  author={Zaben, Muiz M. and Worku, Muhammed Y. and Hassan, Mohamed A. and Abido, Mohammad A.},
+  journal={IEEE Access}, 
+  title={Machine Learning Methods for Fault Diagnosis in AC Microgrids: A Systematic Review}, 
+  year={2024},
+  volume={12},
+  number={},
+  pages={20260-20298},
+  keywords={Circuit faults;Microgrids;Machine learning;Conductors;Artificial neural networks;Relays;Machine learning algorithms;Artificial neural network (ANN);deep learning;fault classification;fault detection;fault location;machine learning;microgrid;pattern recognition;protection;review},
+  doi={10.1109/ACCESS.2024.3360330}}

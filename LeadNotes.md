@@ -57,3 +57,22 @@ Substitute the value of T:
 So, in a .04-second time frame, there are approximately 2 cycles at a frequency of 50 Hz.
 
 ====
+
+# for the time of the response of  the system of the research
+
+The number of cycles in which the system can respond to and clear a fault depends on the frequency (Hz) of the system. 
+
+If the frequency is 50 Hz, then the time period (T) of one cycle is given by:
+
+\[ T = \frac{1 \, \text{second}}{50 \, \text{Hz}} = 0.02 \, \text{seconds/cycle} \]
+
+Now, you want to know how many cycles can occur in a .04-second time frame:
+
+\[ \text{Cycles in .04 seconds} = \frac{0.04 \, \text{seconds}}{T} \]
+
+Substitute the value of T:
+
+\[ \text{Cycles in .04 seconds} = \frac{0.04 \, \text{seconds}}{0.02 \, \text{seconds/cycle}} = 2 \, \text{cycles} \]
+
+So, in a .04-second time frame, there are approximately 2 cycles at a frequency of 50 Hz.
+

@@ -1,5 +1,5 @@
 
-@ARTICLE{10214285,
+@ARTICLE{10214285l_65,
   author={Ibem, Chukwuemeka N. and Farrag, Mohamed E. and Aboushady, Ahmed A. and Dabour, Sherif M.},
   journal={IEEE Access}, 
   title={Multiple Open Switch Fault Diagnosis of Three Phase Voltage Source Inverter Using Ensemble Bagged Tree Machine Learning Technique}, 
@@ -18,7 +18,7 @@ In conclusion, this study focused on diagnosing open-switch faults in a three-ph
    The study involved analyzing the three-phase current waveform of the inverter. Extracting both average and RMS values and combining them proved to be a robust fault diagnosis method, surpassing the efficacy of individual parameter usage.
 
 2. **Normalization Method and Classification:**
-   Introducing a novel normalization method based on the mean-to-RMS ratio, the study successfully applied these ratio values to an ensemble-bagged classification method. This approach effectively classified various faults, including multiple switch faults, even in low current conditions.
+   Introducing a novel normalization method based on the mean-to-RMS ratio, the study successfully applied these ratio values to an ensemble-bagged classification method. This approach effectively classified various faults, including multiple switch faults, even in low current conditions.<<taken intro >>
 
 3. **Identification of Multiple Faults:**
    The proposed technique demonstrated efficacy in identifying multiple switch faults, including triple-switch faults. Its effectiveness persisted even under low current conditions, showcasing its versatility and reliability.

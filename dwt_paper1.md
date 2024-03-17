@@ -1,5 +1,15 @@
 Use of Matrix-Pencil Method for Efficient Islanding
 
+@ARTICLE{8517152_62,
+  author={Agrawal, Sanjay and Patra, Sandipan and Mohanty, Soumya R. and Agarwal, Vineeta and Basu, Malabika},
+  journal={IEEE Transactions on Industrial Electronics}, 
+  title={Use of Matrix-Pencil Method for Efficient Islanding Detection in Static DG and a Parallel Comparison With DWT Method}, 
+  year={2019},
+  volume={66},
+  number={11},
+  pages={8937-8946},
+  keywords={Frequency estimation;Transient analysis;Discrete wavelet transforms;Estimation;Islanding;Discrete wavelet transform (DWT);distributed generation;islanding;Matrix pencil (MP);transient's frequency},
+  doi={10.1109/TIE.2018.2878125}}
 
 Certainly, based on the provided section of the paper, here are some snippets emphasizing the usefulness of Discrete Wavelet Transform (DWT) without plagiarism:
 
